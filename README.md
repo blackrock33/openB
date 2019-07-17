@@ -1,1 +1,1 @@
-# openBilibili
+# openB
